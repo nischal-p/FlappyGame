@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Flappy</string>
+    <string name="play_button_string">Start Flappy</string>
+    <string name="new_game_string">New Game</string>
+    <string name="diff_player_string">Play as a different player</string>
+    <string name="leaderboard_string">Leaderboard</string>
+    <string name="username_hint">Enter your name</string>
+    <string name="clear_leaderboard_string">Clear Leaderboard</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="confirmation">Are you sure?</string>
+    <string name="alert_message">This will clear all of your leaderboard</string>
+    <string name="updated_hint">Please enter your name first</string>
+
+</resources>

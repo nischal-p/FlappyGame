@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/new_game"
+        android:icon="@drawable/baseline_replay_24"
+        android:title="@string/new_game_string"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/diff_player"
+        android:icon="@drawable/baseline_home_24"
+        android:title="@string/diff_player_string"
+        app:showAsAction="always"
+        />
+
+    <item android:id="@+id/leaderboard_menu"
+        android:icon="@drawable/baseline_leaderboard_24"
+        android:title="@string/leaderboard_string"
+        app:showAsAction="always"
+        />
+</menu>
