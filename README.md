@@ -1,4 +1,4 @@
-# FlappyGame
+# FlappyGame for Android
 Welcome to the Flappy game. Enter your name and press "Start Flappy" to start.
 
 Tap on the screen to keep the bird afloat and guide it through the maze of pipes.
